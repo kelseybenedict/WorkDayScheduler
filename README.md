@@ -8,9 +8,9 @@ N/A
 
 ## Usage
 In order to use this application, simply enter text in the text box for it's corresponding time and click the "save" button to save the event. 
-![Work day scheduler landing page](assets/workDayScheduler.png)
+![Work day scheduler landing page](Assets/workDayScheduler.png)
 
-![Image of color coded events](assets/colorCodedEvents.png)
+![Image of color coded events](Assets/colorCodedEvents.png)
 
 ## Credits
 [Moment.js](https://momentjs.com/)
